@@ -1,7 +1,7 @@
 {
   "name": "Chapter-2",
   "version": "1.0.0",
-  "homepage": "https://github.com/packt-mg/Chapter-1",
+  "homepage": "https://github.com/packt-mg/Chapter-2",
   "ignore": [
     "**/.*",
     "node_modules",
